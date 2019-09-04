@@ -1,13 +1,20 @@
 p{
     font-size: 20px;
 }
-
+.movies{
+    margin : 50px 100px; 
+    border-style : solid;
+    border-color : green;
+    border-width : 3px;
+    
+}
 .movie{
-    padding : 40px;
-    margin : 50px 20px;
+
+    padding : 10px;
+    margin : 15px;
     border-style : solid;
     border-color : orange;
-    border-width : 3px 6px 3px 6px ;
+    border-width : 10px;
 }
 
 .loader{
@@ -15,3 +22,4 @@ p{
     text-align: center;
     font-size : 50px;
 }
+
