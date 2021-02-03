@@ -1,1 +1,1 @@
-this is movie app
+영화 API https://yts-proxy.now.sh/list_movies.json
